@@ -11,6 +11,7 @@ public class BlackJack {
         int Mycard[] = new int[10];
         int Aicard[] = new int[2];
         int MycardHap = 0;
+        //04.08
 
 
         System.out.println("게임을 시작하겠습니까? y/n");
