@@ -1,3 +1,5 @@
+package WeAreFamily;
+
 public class Mystudy {
     public static void main(String[] args) {
 
